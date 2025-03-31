@@ -66,7 +66,3 @@
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJ3eWowcjlmOWxxbnozcTd6cmxjOGxjZGJ5bnhxcHk3M2lvaHNkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"  />
 
 ###
-
-<img src="https://raw.githubusercontent.com/zarjin/zarjin/output/snake.svg" alt="Snake animation" />
-
-###
