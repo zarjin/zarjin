@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hi, I'm Zarjin Islam Jewel!<br>💻 MERN Stack Developer | 🌍 From Bangladesh<br><br>🔹 Passionate about crafting scalable web applications<br>🔹 Love working with TypeScript, React, Node.js, and MongoDB<br>🔹 Enthusiastic about optimizing VS Code settings & configurations<br><br>🚀 Always exploring new tech stacks & best practices to enhance performance.</h2>
+<h2 align="left">👋 Hi, I'm Zarjin Islam Jewel!<br>💻 Full-Stack Developer | 🌍 From Bangladesh<br><br>🔹 Passionate about crafting scalable web applications<br>🔹 Love working with TypeScript, React, Node.js, and MongoDB<br>🔹 Enthusiastic about optimizing VS Code settings & configurations<br><br>🚀 Always exploring new tech stacks & best practices to enhance performance.</h2>
 
 ###
 
